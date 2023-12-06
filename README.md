@@ -1,0 +1,23 @@
+# grpc 1.33.2-2
+
+ - mingw-w64-i686-c-ares-1.16.1-1-any.pkg.tar.xz
+ - mingw-w64-i686-gflags-2.2.2-2-any.pkg.tar.xz
+ - mingw-w64-i686-zlib-1.2.11-9100-any.pkg.tar.xz
+ - mingw-w64-i686-openssl-3.1.1-9800-any.pkg.tar.xz
+ - mingw-w64-i686-protobuf-21.12-9000-any.pkg.tar.xz
+ - mingw-w64-i686-re2-20200801-1-any.pkg.tar.xz
+ - mingw-w64-i686-grpc-1.33.2-2-any.pkg.tar.xz
+ - mingw-w64-x86_64-c-ares-1.16.1-1-any.pkg.tar.xz
+ - mingw-w64-x86_64-gflags-2.2.2-2-any.pkg.tar.xz
+ - mingw-w64-x86_64-zlib-1.2.11-9100-any.pkg.tar.xz
+ - mingw-w64-x86_64-openssl-3.1.1-9800-any.pkg.tar.xz
+ - mingw-w64-x86_64-protobuf-21.12-9000-any.pkg.tar.xz
+ - mingw-w64-x86_64-re2-20200801-1-any.pkg.tar.xz
+ - mingw-w64-x86_64-grpc-1.33.2-2-any.pkg.tar.xz
+ - mingw-w64-ucrt-x86_64-c-ares-1.16.1-1-any.pkg.tar.xz
+ - mingw-w64-ucrt-x86_64-gflags-2.2.2-2-any.pkg.tar.xz
+ - mingw-w64-ucrt-x86_64-zlib-1.2.11-9100-any.pkg.tar.xz
+ - mingw-w64-ucrt-x86_64-openssl-3.1.1-9800-any.pkg.tar.xz
+ - mingw-w64-ucrt-x86_64-protobuf-21.12-9000-any.pkg.tar.xz
+ - mingw-w64-ucrt-x86_64-re2-20200801-1-any.pkg.tar.xz
+ - mingw-w64-ucrt-x86_64-grpc-1.33.2-2-any.pkg.tar.xz
